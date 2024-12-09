@@ -1,2 +1,1 @@
-# mailstealer
-mailstealer
+azscripts
